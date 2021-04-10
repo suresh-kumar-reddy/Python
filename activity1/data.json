@@ -1,0 +1,44 @@
+{
+  "question": [
+    "Q1. Which one of the following is the correct extension of the Python file?",
+    "Q2. What do we use to define a block of code in Python language?",
+    "Q3. Which character is used in Python to make a single line comment?",
+    "Q4. Which of the following is not a keyword in Python language?",
+    "Q5. Which of the following operators is the correct option for power(ab)?"
+  ],
+  "answer": [
+    3,
+    2,
+    3,
+    2,
+    2
+  ],
+  "options": [
+
+    [".p",
+      ".c",
+      ".py",
+      ".python"
+    ],
+    ["key",
+      "identation",
+      "brackets",
+      "none of the above"
+    ],
+    ["//",
+      "/",
+      "#",
+      ".."
+    ],
+    ["val",
+      "try",
+      "_val",
+      "_try_"
+    ],
+    ["a^b",
+      "a**b",
+      "a*b",
+      "a^^b"
+    ]
+  ]
+}
